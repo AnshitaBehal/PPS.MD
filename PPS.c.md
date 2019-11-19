@@ -1395,4 +1395,3 @@ int main()
    return 0;
 }
 ```
-![35.png](https://github.com/devanshdhiman77/PPS/blob/master/images/35.png)
